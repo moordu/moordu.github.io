@@ -11,14 +11,14 @@ Users should be able to:
 
 ### Screenshot
 
--Screen: [Screenshot](./screenshot/screen1.png)
+![Screenshot](./screenshot/screen1.png)
 ![Screenshot](./screenshot/screen2.png)
 ![Screenshot](./screenshot/screen3.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/moordu/moordu.github.io)
+- Live Site URL: [Add live site URL here](https://moordu.github.io)
 
 ## My process
 
