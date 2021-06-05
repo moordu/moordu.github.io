@@ -1,0 +1,18 @@
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 100%;
+}
+
+body{
+    
+    // padding: 3.5em 1em;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 0.9375em;
+    background-color: $mainback;
+    color: $heading;
+}
+
