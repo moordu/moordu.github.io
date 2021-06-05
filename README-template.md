@@ -11,9 +11,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](.screenshot/screen1.png)
-![](.screenshot/screen2.png)
-![](.screenshot/screen3.png)
+-Screen: [Screenshot](./screenshot/screen1.png)
+![Screenshot](./screenshot/screen2.png)
+![Screenshot](./screenshot/screen3.png)
 
 ### Links
 
