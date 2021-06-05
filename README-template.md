@@ -42,8 +42,8 @@ I want to stick to HTML and CSS for a little while because I know I need to lear
 
 I found a lot of solution for the problems I encountered working on this project on two youtube channels. These two content creators/coders are really something. 
 
-- Youtube - [@Jessica] (https://www.youtube.com/c/TheCoderCoder/featured)
-- Youtube - [@Kevin] (https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+- Youtube - [Jessica] (https://www.youtube.com/c/TheCoderCoder/featured)
+- Youtube - [Kevin] (https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 
 ## Author
  
