@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/moordu/moordu.github.io)
-- Live Site URL: [Add live site URL here](https://moordu.github.io)
+- Solution URL: [Github source](https://github.com/moordu/moordu.github.io)
+- Live Site URL: [Live Site](https://moordu.github.io)
 
 ## My process
 
